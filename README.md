@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SunMobility/Angular/_apis/build/status/aashi3110.pipeline-java?branchName=master)](https://dev.azure.com/SunMobility/Angular/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
